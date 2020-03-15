@@ -49,7 +49,7 @@ class Game {
     }
 }
 ```
-If you want to know the index number of the other buttons without guessing, you can uncomment this line in `gamepad.js`:
+If you want to know the index number of the other buttons without guessing, you can uncomment this line in [gamepad.js](https://github.com/HR-CMGT/CLE4-P5-workshop/blob/master/p5-basics/start/gamepad.js)
 ```javascript
 // console.log("gamepadbutton" + index)
 ```
