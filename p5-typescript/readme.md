@@ -1,10 +1,16 @@
 # Typescript with P5
 
+## Installing
+
 Make sure you have installed typescript globally with `npm install typescript -g`. This folder already contains type information for P5 in the `@Types` folder. You can also install it with `npm install @types/p5`.
 
-## Compiling
+Clone this repository for an example project with Typescript classes.
 
-All your `.ts` files will be compiled into a single `.js` file by running `tsc -w` in the terminal, or in VS Code, you can press **CMD+SHIFT+B** and choose **Watch Mode**
+## Building
+
+Your `.ts` files will be in the `dev` folder. The website (`index.html`, `styles.css`) will be in the `docs` folder.
+
+Compile your typescript into a single `.js` file by running `tsc -w` in the terminal, or in VS Code, you can press **CMD+SHIFT+B** and choose **Watch Mode**
 
 ## Links
 
